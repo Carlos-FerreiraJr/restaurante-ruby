@@ -1,5 +1,5 @@
 =begin 
-    restaurante 1.0.0
+    restaurante 1.0.1
 =end 
 
 class Franquia 
